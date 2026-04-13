@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# video files
+n8n_masterclass_2.mp4
+myenv/
+client_secret_223037434936-r3omrj06u2cqffno7kj8od1kiuf6sc70.apps.googleusercontent.com.json
